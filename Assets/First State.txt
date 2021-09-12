@@ -1,0 +1,8 @@
+Mystery of the Night before.
+
+[Splash] ...you awaken when cold water hits your face. 
+A gruff looking man stands over you with an unpleasant look on his face.
+"Wake up we need to talk. I need to know what happened last night.
+	We should talk in my office. Follow me upstairs."
+
+Choice: Left goes upstairs  // Right goes into a dark hallway where you can hear some metal banging.
