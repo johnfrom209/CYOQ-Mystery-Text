@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
+  m_Name: A3. The Anvil Tolls
+  m_EditorClassIdentifier: 
+  storyText: 'You round the corner to where the ringing is coming from. You see before
+    you, hunched over an anvil a muscular humanoid  with a somewhat green complextion.
+    He is too busy to notice you. With the little light beaming off a forge your
+    eyes trace the walls and on the opposite end you can see the outline of a door
+    frame.
+
+
+    1. Exit using the back door.
+
+    2. Go back to the mans office.'
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}

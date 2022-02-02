@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
+  m_Name: A0.Introduction
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome. I hope you enjoy this choose your own adventure. I adapted
+    it from a Dnd one shot I made for friends. At this point only the beginning was
+    convert over to unity.
+
+
+    At each stage in the story you will be asked to
+    push a key, either 1, 2, or 3 to continue the story.
+
+
+    At any point in time
+    you can push "x" to quit.
+
+
+    Press 1 to continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 335923c1756425f4fa7b2750615d445a, type: 2}

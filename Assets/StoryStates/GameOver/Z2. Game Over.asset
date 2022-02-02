@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
+  m_Name: Z2. Game Over
+  m_EditorClassIdentifier: 
+  storyText: 'Congratulations you survived until the end. Great job avoiding the
+    perils and thwarting those monsters.
+
+
+    What will you like to do now?
+
+    1.
+    Try again to see the other endings?
+
+    2. Head to the intro. (or press "x"
+    to exit)'
+  nextStates:
+  - {fileID: 11400000, guid: f6045f8ca20e2cc459e52088fa5f2bd6, type: 2}
+  - {fileID: 11400000, guid: 86122a507ffc96f4f8a7acb34b042ad9, type: 2}
