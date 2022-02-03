@@ -19,5 +19,5 @@ MonoBehaviour:
     Do you go upstairs following the man?\n 2. Right - Goes into a dark hallway where
     you can hear some metal banging. "
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 5baf9e9898d665a42ba3909668023294, type: 2}
+  - {fileID: 11400000, guid: 4b4ef6b091251f442ae69224f4a8b66f, type: 2}

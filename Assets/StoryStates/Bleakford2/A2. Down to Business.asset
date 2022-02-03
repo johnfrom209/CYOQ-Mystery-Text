@@ -19,4 +19,4 @@ MonoBehaviour:
     you have to turn in your badge.\" \nHe slids you a glass of water.\n\n1. You're
     right boss. It won't happen again."
   nextStates:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: eb1bd7489a97209409a87e7b52074524, type: 2}

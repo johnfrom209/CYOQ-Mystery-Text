@@ -12,5 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
   m_Name: A11. Shambles of Fate
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Before you can gather your thoughts chaos begins to descend on the
+    carriage. The horse wails out a high pitch neigh, suddenly stopping the ride.
+    The boy begins to yell out in pain. You quickly pull the flap of cloth that seperated
+    you three, and a fowl stench hits your nostrils. You retch in place, as tears
+    begin to well up. You search for the father but he is no where to be seen. The
+    boy struggles past you clutching his arm. Before you can gather yourself the
+    carriage begins to rock back and forth. Eventually it topples over. As you struggle
+    to your feet a horde of undead decends upon you.
+
+
+    1. Game Over'
+  nextStates:
+  - {fileID: 11400000, guid: c110a4518b1f87c47819afba6d2b0f8d, type: 2}

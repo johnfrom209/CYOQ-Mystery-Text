@@ -19,4 +19,4 @@ MonoBehaviour:
     doing out here?\"\n\n1. The drunks like to talk about horrors that shamble in
     the night...\n"
   nextStates:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 61b7bbe309c2bbb44a9ce727bafa017e, type: 2}
