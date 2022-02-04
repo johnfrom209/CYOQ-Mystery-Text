@@ -12,6 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
   m_Name: A10. How Strange
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'One of the companions near her put a hand on her shoulder and says,
+    "If they are hear to help, don''t turn them away."
+
+    Her demeanor loosens
+    up and begins to describe her brothers strange actions before he went missing.
+    How he would lose focus and stare intently towards the west, towards the wetlands.
+    A couple nights before he went missing, he was caught wandering west ward. In
+    the morning he never remembered anything.
+
+
+    1. Didn''t Mrs. Ryu''s spouse
+    go missing under similar conditions?'
   nextStates:
   - {fileID: 11400000, guid: f05982ae6d6e0084da99e6421fa4c66f, type: 2}

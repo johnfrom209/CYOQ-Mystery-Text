@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
+  m_Name: B17. I'm Back
+  m_EditorClassIdentifier: 
+  storyText: "Distracted for a second you walk up to Annie arguing with her companion.
+    \r\n\"Where's the oil for the lamps? We need that to see out in the dark.\r\nMan:
+    \"Wait wait did you hear that? \r\n\r\n1. Loud noise can be heard from the tall
+    grass nearby. "
+  nextStates:
+  - {fileID: 11400000, guid: abdfecc184757b24680316b82a2c28c0, type: 2}

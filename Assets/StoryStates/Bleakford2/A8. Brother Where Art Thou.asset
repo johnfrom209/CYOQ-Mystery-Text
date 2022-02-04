@@ -12,6 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
   m_Name: A8. Brother Where Art Thou
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: "Wow. Looks who's finally off their ass and doing their job. Seems like
+    its been a week since I reported my brother missing. We, got tired of waiting
+    for you to do something about the missing people, so a few of us are getting
+    together to head out into the wetlands and look for some clues on the missing
+    people. No need for you to get involved, we have it covered. \nShe glares as
+    she waits for you to leave.\n\n1. I understand how you feel. Our hands were tied
+    before, but we want to help now.\n2. She says she has it under control."
   nextStates:
   - {fileID: 11400000, guid: 34f56cb864b80854aac98ff63f93c948, type: 2}
+  - {fileID: 11400000, guid: e8a23194153cd0743a4e53b911737fac, type: 2}

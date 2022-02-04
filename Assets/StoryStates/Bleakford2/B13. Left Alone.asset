@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
+  m_Name: B13. Left Alone
+  m_EditorClassIdentifier: 
+  storyText: "If this is really a Chitin, I need to grab some supplies in order to
+    deal with it. You'll have to do the last interview alone. Word is one of the
+    kids saw something thats spooking everyone. Talk to them at the bonfire. Once
+    you do that I'll meet you with Annie. \r\n\r\n1. Sounds easy enough. Consider
+    it done."
+  nextStates:
+  - {fileID: 11400000, guid: 39f519c153f3f17439b7bd7cab5667fb, type: 2}

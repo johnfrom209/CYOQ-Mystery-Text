@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
+  m_Name: B9. The Room
+  m_EditorClassIdentifier: 
+  storyText: 'You leave the parents to themselves as you go to investigate the room
+    with the Sherriff. You swing the door open to find everything disheveled. The
+    crib is completely destroyed. The sheriff is standing next to the window.
+
+    
+
+    1.
+    Wow this place got trashed.'
+  nextStates:
+  - {fileID: 11400000, guid: 26e9aea939e87d1488095831bdc71afe, type: 2}

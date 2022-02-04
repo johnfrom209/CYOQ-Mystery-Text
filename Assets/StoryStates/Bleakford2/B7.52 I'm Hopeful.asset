@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
+  m_Name: B7.52 I'm Hopeful
+  m_EditorClassIdentifier: 
+  storyText: 'After reassuring the parents you''ll do everything you can to return
+    their baby, you move towards the baby''s room. If we can return the baby this
+    family can return to their normal lives. After a while this will all be a distant
+    nightmare.
+
+    
+
+    1. You meet the Sheriff in the baby''s room.'
+  nextStates:
+  - {fileID: 11400000, guid: d6f9f3b44f874cf418122258f2210a6d, type: 2}

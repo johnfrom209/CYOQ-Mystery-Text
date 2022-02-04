@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
+  m_Name: A12. Here's the Plan
+  m_EditorClassIdentifier: 
+  storyText: 'Okay, Annie, here''s the plan. We have a couple more people to visit
+    tonight and once we get that done we can head out with you. I know you all are
+    itching to get out there, but having us along reduces the risk of anything bad
+    happening. Whatever is behind all this, I''m sure we can help take it down.
+
+    She
+    looks down for a second, sighs and says, "You have two hours before we leave.
+    With or without you."
+
+
+    1. See you in two hours. '
+  nextStates:
+  - {fileID: 11400000, guid: e8a23194153cd0743a4e53b911737fac, type: 2}

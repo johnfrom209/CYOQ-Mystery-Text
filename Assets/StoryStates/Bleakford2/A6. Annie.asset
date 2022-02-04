@@ -12,6 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
   m_Name: A6. Annie
   m_EditorClassIdentifier: 
-  storyText: 'Hello mama, this is my deputy and we are here to ask you some questions. '
+  storyText: "Hello mama, this is my deputy and we are here to ask you some questions
+    about the disappearance of your brother. Can you tell us where you saw him last.
+    Was he acting out of the norm? Is there a chance someone you know has a grudge
+    against him and may have wanted to harm him? Its best not to hold anything back
+    for us to have the best chance to help find your brother. Also, can I ask what
+    you and those fellas are up to? Can't help but think you all are up to something
+    dangerous. \n\n1. She seems..."
   nextStates:
   - {fileID: 11400000, guid: db56abf49d80a934cab779dfa5f64739, type: 2}

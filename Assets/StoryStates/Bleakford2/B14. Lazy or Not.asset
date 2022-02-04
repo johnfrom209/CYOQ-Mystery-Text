@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
+  m_Name: B14. Lazy or Not
+  m_EditorClassIdentifier: 
+  storyText: "You leave the house and start heading to the bonfire for the interview.
+    Now I can either finish the job or meet up with Annie. \r\n\r\n1. Finish the
+    job.\r\n2. There's plenty going on lets meet up with Annie.  "
+  nextStates:
+  - {fileID: 11400000, guid: c110a4518b1f87c47819afba6d2b0f8d, type: 2}
+  - {fileID: 11400000, guid: d74531a9ded1bbd40ae4271131a19b6e, type: 2}

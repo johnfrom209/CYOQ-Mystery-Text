@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e02d72ebe97ca740a3103ab66e4a250, type: 3}
+  m_Name: B5. Give Me the Details
+  m_EditorClassIdentifier: 
+  storyText: 'The husband speaks up first. "It was late at night." he pauses for
+    a moment. "We were sound asleep when the noise woke us. I ran to the room...it
+    was dark and I couldn''t see much. But I can tell you it wasn''t human. It escaped
+    through the window, but before it was out I instinctly made my way to shut the
+    window. When I slammed it shut it made a chittering noise, then hissed at me.
+
+
+    1.
+    Thank you for the info.'
+  nextStates:
+  - {fileID: 11400000, guid: a1ae0bccaac339747b0c4b782ff77bdb, type: 2}
