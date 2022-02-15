@@ -24,6 +24,11 @@ public class AdventureGame : MonoBehaviour
     void Update()
     {
         ManageState();
+
+        if (Input.GetKeyDown(KeyCode.X))
+        {
+            QuitGame();
+        }
     }
     private void ManageState()
     {
@@ -38,5 +43,10 @@ public class AdventureGame : MonoBehaviour
         }
 
         textComponent.text = state.GetStateStory();
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 }
